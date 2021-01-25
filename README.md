@@ -2,18 +2,18 @@
 
 ## Overview of Project:
 
-Using python code, pandas and API's to perform an analysis of world vacation options based on weather, particularly temperature range.  
+We will be using Python, google maps API and pandas to perform analysis on various locations globally. We will be looking at their weather, ranging their temperatures and weather conditions for vacation purposes. 
 
 ### Purpose:
 
-Python code and pandas are used to perform an analysis of vacation options around the world based on user input minimum and maximum temperature range.  Using application programming interfaces (APIs), city locations (based on latitude and longitude coordinates) and nearest hotels  to the city locations were retrieved.
+The purpose of this project is to utilize Python, Pandas and the GMAP API to find a range of minimum and maximum temperatures across the globe. We want to identify a range of temperatures that we like and where in the world we can go that fits the criteria. We use API, city geo locations to find hotels near those coordinates. 
 
 ## Analysis Results and Challenges:
 
 ### Analysis of Outcomes 
-To begin the analysis, a set of 2000 random latitudes and longitudes were generated to retrieve the nearest city using an API call with the OpenWeatherMap.  This retrieved 704 cities.
+To get a general base for this project, we will be setting up 2000 randomly generated coordinates. We then will find what are the closest locations to these geolocation points. This comes back with 566 cities.
 
-Based on that city list, input statements were created to retrieve potential travel destinations and nearby hotels based on the specified customer weather temperature range.  Based on a temperature range of 70-90°F, the following travel destinations were found.
+Based on the locations, we compiled a list based on temperatures ranging from 70-90°F.
 
 #### Vacation Map
 ![](Weather_Database/WeatherPy_vacation_map.png)
