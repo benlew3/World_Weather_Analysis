@@ -24,7 +24,7 @@ From the vacation map, the island of Mauritius was chosen as the preferred trave
 ![](Vacation_Itinerary/WeatherPy_travel_df.png)
 
 #### Mauritius Vacation Driving Route
-![](Vacation_Itinerary/WeatherPy_travel_map.png)
+![](Vacation_Itinerary/weatherpy_travel_map.PNG)
     
 
 #### Mauritius Vacation Map with Pop-up Markers
