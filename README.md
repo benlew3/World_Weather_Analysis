@@ -18,7 +18,7 @@ Based on the locations, we compiled a list based on temperatures ranging from 70
 #### Vacation Map
 ![](Weather_Database/WeatherPy_vacation_map.png)
 
-From the vacation map, the island of Mauritius was chosen as the preferred travel destination.  Four cities where chosen to visit on vacation.  The Google Maps based driving route, map with pop-up markers for additional information, and map designating the four cities (with no additional pop-ups) were generated.
+From the vacation map, Brazil seemed like a fine location for a vacation.  In Brazil, four cities where chosen to visit.  we used Google Maps to pick a driving route, map with pop-up markers for additional information, which includes hotel information, and map designating the four cities (with no additional pop-ups) were generated.
 
 #### Mauritius Travel Itinerary
 ![](Vacation_Itinerary/WeatherPy_travel_df.PNG)
@@ -36,4 +36,4 @@ From the vacation map, the island of Mauritius was chosen as the preferred trave
 
 
 ### Challenges and Difficulties Encountered
-During the vacation search, the findings were cleansed to remove any empty rows.  It was found that some destinations did not contain a country code and needed to be dropped from the results list.  In performing that activity, a Jupyter Notebook warning message was displayed even though the rows were successfully dropped (based on comparing total beginning and after row counts).  The analysis proceeded without refactoring the code that produced the warning message as another results cleansing activity would be performed that would further remove results (e.g. additional rows) that did not contain hotel references. This cleaning activity did not produce any warning messages so the analysis was completed without re-factoring code.
+Many issues I had encountered were primarily dealing with the API functionality and displaying the graphs/maps.
