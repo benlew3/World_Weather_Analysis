@@ -21,18 +21,18 @@ Based on the locations, we compiled a list based on temperatures ranging from 70
 From the vacation map, the island of Mauritius was chosen as the preferred travel destination.  Four cities where chosen to visit on vacation.  The Google Maps based driving route, map with pop-up markers for additional information, and map designating the four cities (with no additional pop-ups) were generated.
 
 #### Mauritius Travel Itinerary
-![](Vacation_Itinerary/WeatherPy_travel_df.png)
+![](Vacation_Itinerary/WeatherPy_travel_df.PNG)
 
 #### Mauritius Vacation Driving Route
 ![](Vacation_Itinerary/weatherpy_travel_map.PNG)
     
 
 #### Mauritius Vacation Map with Pop-up Markers
-![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
 
 #### Mauritius Vacation Map without Pop-up Markers
-![](Vacation_Itinerary/WeatherPy_travel_map_markers_nopop.png)
+![](Vacation_Itinerary/weatherpy_travel_map_nonpop.PNG)
 
 
 ### Challenges and Difficulties Encountered
